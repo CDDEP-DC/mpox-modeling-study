@@ -20,5 +20,5 @@ Initliaze the shell scripts to run the models (run_scenarios_.. prefix).
 ## 3️⃣ Generate analyses
 Run the analyses with the post_ prefixes and generate the relevant plots with the plotting_ prefix.
 
-# Reccomended Citation
+# 📝 Reccomended Citation
 Kipshidze N., Klein E., Wan Y. (2023). Understanding the drivers of continued mpox transmission in the United States: a modeling study. GitHub. [https://github.com/CDDEP-DC/mpox-modeling-study](https://github.com/CDDEP-DC/mpox-modeling-study)
