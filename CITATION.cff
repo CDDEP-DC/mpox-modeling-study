@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+- family-names: "Kipshidze"
+  given-names: "Nodar"
+- family-names: "Klein"
+  given-names: "Eili"
+- family-names: "Yang"
+  given-names: "Wan"
+title: "Understanding the drivers of continued mpox transmission in the United States: a modeling study"
+version: 1.0.0
+date-released: 2023-12-27
+url: "https://github.com/CDDEP-DC/mpox-modeling-study"
