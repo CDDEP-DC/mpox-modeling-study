@@ -5,7 +5,6 @@ This GitHub repository accompanies the paper by Kipshidze, Klein, and Yang title
 | Folder | Description |
 | -- | -- |
 | Data| Folders containing all data oon vaccination and incidence used for model fitting |
-| Output | Output files, including figures, model runs, and data tables |
 | R | All relevant script files and network objects |
 
 # 📌 How to recreate our analyses
