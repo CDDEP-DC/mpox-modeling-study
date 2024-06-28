@@ -12,7 +12,7 @@ We reccomend that these models are run on a remote server. We utilized an [c7i.4
 
 # Model Fitting
 You will need to set-up a shell script to run and pass arguments to the `run_LHS sims.R` script.
-After running the models you will then use `post_estimating fit.R` to compute the negative-log likelihood  of each individual run, which is compared to the observed data. This script is set-up so that it can be pointed to the saved runs and do the rest for you. Finally, the `post_assess fit.R` will take the estimated NLL and filter down to the top 10% of all runs for each city and plot the fitted runs and distributions of the free parameters. 
+After running the models you will then use `post_estimating fit.R` to compute the negative-log likelihood  of each individual run, which is compared to the observed data. This script is set-up so that it can be pointed to the saved runs and do the rest for you. Finally, the `post_assess fit.R` will take the estimated NLL and filter down to the top 10% of all runs for each city and plot the fitted runs and distributions of the free parameters. Finally the script `post_estim shape params.R` will estimate the shape parameters.
 
 # Running Different Mechanisms
 You will need to set-up a shell script to pass the different arguments of applicable mechanisms, the arguments that can be passed are listed below in the table. 
